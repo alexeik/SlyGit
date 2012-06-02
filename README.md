@@ -1,11 +1,11 @@
-SlyGit
+п»їSlyGit
 ======
 
 Github like platform. Based on Silverlight, WCF, LibGit2Sharp.
 
 Russia:
-Вся информация об архитектуре находится в SlyGit.mm
-Файл создан с помощью FreeMind по адресу http://freemind.sourceforge.net
+Р’СЃСЏ РёРЅС„РѕСЂРјР°С†РёСЏ РѕР± Р°СЂС…РёС‚РµРєС‚СѓСЂРµ РЅР°С…РѕРґРёС‚СЃСЏ РІ SlyGit.mm
+Р¤Р°Р№Р» СЃРѕР·РґР°РЅ СЃ РїРѕРјРѕС‰СЊСЋ FreeMind РїРѕ Р°РґСЂРµСЃСѓ http://freemind.sourceforge.net
 
 English:
 All arch information placed at SlyGit.mm
